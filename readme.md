@@ -217,7 +217,7 @@ https://zenodo.org/record/5914554
 
 
 The system integrates:
-'-----------------------------------------'
+
 |    Sensor     |        Function         |
 |---------------|-------------------------|
 |      RGB      |   Orthomosaic imagery   |
@@ -225,7 +225,6 @@ The system integrates:
 |      CHM      |       Canopy height     |
 | Hyperspectral |     426-band imagery    |
 |  Annotation   |   Tree bounding boxes   |
-'-----------------------------------------'
 
 ---
 
