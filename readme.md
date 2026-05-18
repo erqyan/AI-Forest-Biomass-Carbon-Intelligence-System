@@ -233,7 +233,7 @@ The system integrates:
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/erqyan/AI-Forest-Biomass-Carbon-Intelligence-System
 cd AI-Forest-Biomass-Carbon-Intelligence-System
 ```
 
